@@ -2,7 +2,7 @@
   "functions": {
     "autoLogin": {
       "enabled": true,
-      "ips": ["192.168.1.1", "192.168.1.2"]
+      "ips": ["mc.holyworld.ru", "192.168.1.2"]
     },
     "autoFarmHV": {
       "enabled": false,
@@ -22,7 +22,7 @@
     },
     "playerNear": {
       "enabled": true,
-      "ips": ["192.168.0.10", "192.168.0.11"]
+      "ips": ["mc.holyworld.ru", "192.168.0.11"]
     }
   }
 }
