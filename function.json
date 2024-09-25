@@ -5,8 +5,8 @@
       "ips": ["mc.holyworld.ru", "192.168.1.2"]
     },
     "autoCaptcha": {
-      "enabled": false,
-      "ips": []
+      "enabled": true,
+      "ips": ["mc.holyworld.ru"]
     },
     "armorDurability": {
       "enabled": true,
