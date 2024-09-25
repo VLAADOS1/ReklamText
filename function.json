@@ -1,10 +1,28 @@
 {
   "functions": {
-    "autoLogin": true,
-    "autoFarmHV": false,
-    "autoCaptchaFT": true,
-    "armorDurability": true,
-    "appleCount": false,
-    "playerNear": true
+    "autoLogin": {
+      "enabled": true,
+      "ips": ["192.168.1.1", "192.168.1.2"]
+    },
+    "autoFarmHV": {
+      "enabled": false,
+      "ips": []
+    },
+    "autoCaptchaFT": {
+      "enabled": true,
+      "ips": ["10.0.0.1"]
+    },
+    "armorDurability": {
+      "enabled": true,
+      "ips": ["172.16.0.1"]
+    },
+    "appleCount": {
+      "enabled": false,
+      "ips": []
+    },
+    "playerNear": {
+      "enabled": true,
+      "ips": ["192.168.0.10", "192.168.0.11"]
+    }
   }
 }
