@@ -1,1 +1,10 @@
-
+{
+  "functions": {
+    "autoLogin": true,
+    "autoFarmHV": false,
+    "autoCaptchaFT": true,
+    "armorDurability": true,
+    "appleCount": false,
+    "playerNear": true
+  }
+}
