@@ -4,13 +4,9 @@
       "enabled": true,
       "ips": ["mc.holyworld.ru", "192.168.1.2"]
     },
-    "autoFarmHV": {
+    "autoCaptcha": {
       "enabled": false,
       "ips": []
-    },
-    "autoCaptchaFT": {
-      "enabled": true,
-      "ips": ["10.0.0.1"]
     },
     "armorDurability": {
       "enabled": true,
