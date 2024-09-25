@@ -17,8 +17,8 @@
       "ips": ["mc.holyworld.ru"]
     },
     "playerNear": {
-      "enabled": true,
-      "ips": ["mc.holyworld.ru", "192.168.0.11"]
+      "enabled": false,
+      "ips": ["mc", "192.168.0.11"]
     }
   }
 }
