@@ -13,8 +13,8 @@
       "ips": [""]
     },
     "appleCount": {
-      "enabled": false,
-      "ips": []
+      "enabled": true,
+      "ips": ["mc.holyworld.ru"]
     },
     "playerNear": {
       "enabled": true,
