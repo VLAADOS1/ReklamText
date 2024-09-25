@@ -10,7 +10,7 @@
     },
     "armorDurability": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru"]
+      "ips": [""]
     },
     "appleCount": {
       "enabled": false,
