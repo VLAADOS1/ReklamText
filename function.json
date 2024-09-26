@@ -2,23 +2,23 @@
   "functions": {
     "autoLogin": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru", "192.168.1.2"]
+      "ips": [""]
     },
     "autoCaptcha": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru"]
+      "ips": [""]
     },
     "armorDurability": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru"]
+      "ips": [""]
     },
     "appleCount": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru"]
+      "ips": [""]
     },
     "playerNear": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru", "192.168.0.11"]
+      "ips": [""]
     }
   }
 }
