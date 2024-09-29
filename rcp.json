@@ -1,20 +1,20 @@
 {
   "functions": {
     "largeImageKey": {
-      "enabled": "https://i.imgur.com/P1ZgalJ.png",
+      "enableds": "https://i.imgur.com/P1ZgalJ.png",
     },
     "largeImageText": {
-      "enabled": "By: WillyProduct",
+      "enableds": "By: WillyProduct",
     },
-    "state": [
+    "states": [
       "Лучший бесплатный мод для игры на анархии!",
       "Используй его для доминирования!"
     ],
     "button_1_label": {
-      "enabled": "Скачать мод",
+      "enableds": "Скачать мод",
     },
     "button_1_url": {
-      "enabled": "https://vk.com/willyproduct",
+      "enableds": "https://vk.com/willyproduct",
     }
   }
 }
