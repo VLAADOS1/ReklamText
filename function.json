@@ -19,6 +19,10 @@
     "playerNear": {
       "enabled": true,
       "ips": [""]
+    },
+    "targetHud": {
+      "enabled": true,
+      "ips": [""]
     }
   }
 }
