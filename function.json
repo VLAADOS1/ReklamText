@@ -22,7 +22,7 @@
     },
     "targetHud": {
       "enabled": true,
-      "ips": ["mc.prostotrainer.space"]
+      "ips": [""]
     }
   }
 }
