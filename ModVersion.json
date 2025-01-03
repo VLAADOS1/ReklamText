@@ -1,8 +1,7 @@
 {
   "mod": {
-    "currentVersion": {
-      "version": "1.0.0",
-      "description": "Fixed bugs"
+    "info": {
+      "version": "0.0.1"
     }
   }
 }
