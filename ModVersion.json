@@ -1,4 +1,6 @@
 {
-  "version": "1.0.0",
-  "releaseNotes": "Доступна новая версия мода 1.0.0 Немедленно обновите модификацию."
+    "currentVersion": {
+      "version": "1.0.0",
+      "description": "Fixed bugs"
+  }
 }
