@@ -18,7 +18,7 @@
     },
     "playerNear": {
       "enabled": true,
-      "ips": [""]
+      "ips": ["play.funtime.su", "play2.funtime.su", "mc.funtime.su", "tcp.funtime.sh", "neo.funtime.sh", "funtime.su", "connect.funtime.su"]
     },
     "playerNearInvis": {
       "enabled": true,
@@ -30,7 +30,7 @@
     },
     "targetHudInvis": {
       "enabled": true,
-      "ips": ["mc.holyworld.ru", "mc.holyworld.me", "mc.holyworld.io", "play.holyworld.ru", "play.holyworld.me", "play.holyworld.io", "mc.holyworld.ru", "play.holyworld.ru", "fra.holyworld.ru", "fra.holyworld.me", "join.holyworld.ru", "join.holyworld.me", "go.holyworld.ru", "go.holyworld.me"]
+      "ips": ["mc.holyworld.ru", "mc.holyworld.me", "mc.holyworld.io", "play.holyworld.ru", "play.holyworld.me", "play.holyworld.io", "mc.holyworld.ru", "play.holyworld.ru", "fra.holyworld.ru", "fra.holyworld.me", "join.holyworld.ru", "join.holyworld.me", "go.holyworld.ru", "go.holyworld.me", "play.funtime.su", "play2.funtime.su", "mc.funtime.su", "tcp.funtime.sh", "neo.funtime.sh", "funtime.su", "connect.funtime.su"]
     }
   }
 }
