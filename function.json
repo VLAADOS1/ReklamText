@@ -18,7 +18,7 @@
     },
     "playerNear": {
       "enabled": true,
-      "ips": ["fra.holyworld.ru"]
+      "ips": [""]
     },
     "playerNearInvis": {
       "enabled": true,
