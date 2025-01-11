@@ -26,7 +26,7 @@
     },
     "targetHud": {
       "enabled": true,
-      "ips": [""]
+      "ips": ["play.funtime.su", "play2.funtime.su", "mc.funtime.su", "tcp.funtime.sh", "neo.funtime.sh", "funtime.su", "connect.funtime.su"]
     },
     "targetHudInvis": {
       "enabled": true,
